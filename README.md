@@ -1,9 +1,6 @@
 allennlp的imdb实例
 =========================
 
-# A gentle guild to starting your NLP project with AllenNLP
-
-
 ## Usage
 
 There is a post about this repository: Click [this link](https://towardsdatascience.com/allennlp-startup-guide-24ffd773cd5b)
@@ -33,3 +30,6 @@ Creating your own configuration file:
 allennlp configure --include-package allennlp_imdb
 ```
 
+## 另一个实例
+
+https://github.com/allenai/allennlp-as-a-library-example

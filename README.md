@@ -30,6 +30,8 @@ Creating your own configuration file:
 allennlp configure --include-package allennlp_imdb
 ```
 
-## 另一个实例
+## 另一个实例知乎详解和代码
+
+https://zhuanlan.zhihu.com/p/73469009
 
 https://github.com/allenai/allennlp-as-a-library-example
